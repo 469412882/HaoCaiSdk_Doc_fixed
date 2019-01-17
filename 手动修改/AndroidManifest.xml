@@ -24,6 +24,9 @@
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
     <uses-feature android:name="android.hardware.location.gps"/>
     
+    
+		<meta-data android:name="android.max_aspect" android:value="2.1" />
+    
     <activity android:name="com.jzb.haocai.haocaisdk.ReplugMainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
