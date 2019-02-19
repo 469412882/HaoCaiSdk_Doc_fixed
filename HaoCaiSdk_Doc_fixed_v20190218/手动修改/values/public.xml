@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="id" name="z_z_help_ll" id="0x7f02f000" />
+    <public type="id" name="z_z_icon" id="0x7f02f001" />
+    <public type="id" name="z_z_iv_help" id="0x7f02f002" />
+    <public type="id" name="z_z_iv_refresh" id="0x7f02f003" />
+    <public type="id" name="z_z_iv_service" id="0x7f02f004" />
+    <public type="id" name="z_z_iv_speed" id="0x7f02f005" />
+    <public type="id" name="z_z_loading" id="0x7f02f006" />
+    <public type="id" name="z_z_mImgStartBg" id="0x7f02f007" />
+    <public type="id" name="z_z_mTvState" id="0x7f02f008" />
+    <public type="id" name="z_z_text" id="0x7f02f009" />
+    <public type="id" name="z_z_title" id="0x7f02f00a" />
+    <public type="id" name="z_z_tv_version" id="0x7f02f00b" />
+    <public type="layout" name="z_z_activity_start" id="0x7f03f001" />
+    <public type="layout" name="z_z_customer_notitfication_layout" id="0x7f03f002" />
+    <public type="mipmap" name="z_z_download" id="0x7f04f000" />
+    <public type="mipmap" name="z_z_help" id="0x7f04f001" />
+    <public type="mipmap" name="z_z_logo" id="0x7f04f004" />
+    <public type="mipmap" name="z_z_refresh" id="0x7f04f005" />
+    <public type="mipmap" name="z_z_service" id="0x7f04f006" />
+    <public type="mipmap" name="z_z_speed" id="0x7f04f007" />
+    <public type="mipmap" name="z_z_start" id="0x7f04f008" />
+    <public type="style" name="z_z_AppBaseTheme" id="0x7f06f000" />
+    <public type="style" name="z_z_AppBaseTheme.Launcher" id="0x7f06f001" />
+    <public type="style" name="z_z_MyDialog" id="0x7f06f003" />
+    <public type="xml" name="z_z_file_paths" id="0x7f07f000" />
+</resources>
